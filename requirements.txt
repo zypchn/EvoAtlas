@@ -1,0 +1,8 @@
+langchain_community
+langchain_core
+langchain_classic
+langchain_text_splitters
+langchain-openai
+unstructured
+streamlit
+faiss-cpu
